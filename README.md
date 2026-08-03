@@ -1,9 +1,3 @@
-<img width="495" height="917" alt="image" src="https://github.com/user-attachments/assets/24df3b6f-798b-4caa-992a-3e0cfd4f037e" />
-<img width="494" height="747" alt="image" src="https://github.com/user-attachments/assets/004b7db6-068d-4538-83c3-4821d376f67a" />
-<img width="495" height="746" alt="image" src="https://github.com/user-attachments/assets/592e6842-19a7-4156-ad4d-ae06297b4973" />
-<img width="496" height="819" alt="image" src="https://github.com/user-attachments/assets/22335f25-115b-499c-8f4d-6fc2e12824b7" />
-<img width="489" height="800" alt="image" src="https://github.com/user-attachments/assets/0a2b9383-36c2-4f88-84fa-03a0a45c08e0" />
-
 # Interactive Developer Portfolio Application Using Flutter and GetX
 
 A responsive and interactive developer portfolio application built using Flutter and GetX architecture.
@@ -258,3 +252,9 @@ International Islamic University Chittagong
 ## Repository
 
 GitHub Repository: https://github.com/Leanurrahman/flutter-portfolio-getx/tree/main
+
+<img width="495" height="917" alt="image" src="https://github.com/user-attachments/assets/24df3b6f-798b-4caa-992a-3e0cfd4f037e" />
+<img width="494" height="747" alt="image" src="https://github.com/user-attachments/assets/004b7db6-068d-4538-83c3-4821d376f67a" />
+<img width="495" height="746" alt="image" src="https://github.com/user-attachments/assets/592e6842-19a7-4156-ad4d-ae06297b4973" />
+<img width="496" height="819" alt="image" src="https://github.com/user-attachments/assets/22335f25-115b-499c-8f4d-6fc2e12824b7" />
+<img width="489" height="800" alt="image" src="https://github.com/user-attachments/assets/0a2b9383-36c2-4f88-84fa-03a0a45c08e0" />
